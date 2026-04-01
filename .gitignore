@@ -1,0 +1,29 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Debug / logs
+*.pdb
+*.log
+
+# Test results
+TestResults/
+
+# NuGet artifacts (if present)
+packages/
+*.nupkg
+
+# OS files
+Thumbs.db
+Desktop.ini
+
